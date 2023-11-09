@@ -1,0 +1,10 @@
+region                   = <FILL-HERE>
+stage_name               = <FILL-HERE>
+log_retention_period     = <FILL-HERE>
+batch_proxy_fname        = <FILL-HERE>
+authorizer_fname         = <FILL-HERE>
+batch_job_def_name       = <FILL-HERE>
+batch_job_log_group_name = <FILL-HERE>
+batch_job_repo           = <FILL-HERE>
+batch_job_queue_name     = <FILL-HERE>
+api_secret               = <FILL-HERE>
